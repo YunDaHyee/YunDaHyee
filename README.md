@@ -1,4 +1,12 @@
-### Hi there 👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunDaHyee&count_bg=%2352574E&title_bg=%23C8C7C7&icon=&icon_color=%23E7E7E7&title=D&edge_flat=true)   
+
+<hr>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=nyunda)](https://solved.ac/nyunda)  
+
+<hr>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDaHyee&show_icons=true&theme=radical)
 
 <!--
 **YunDaHyee/YunDaHyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
